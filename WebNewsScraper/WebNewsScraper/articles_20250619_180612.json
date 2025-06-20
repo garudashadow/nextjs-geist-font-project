@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "timestamp": "2025-06-19T18:06:12.751573",
+    "total_articles": 1,
+    "categories": {
+      "Media Bisnis dan Keuangan": {
+        "count": 1,
+        "sources": [
+          "https://www.bisnis.com/"
+        ]
+      }
+    }
+  },
+  "articles": {
+    "Media Bisnis dan Keuangan": [
+      {
+        "title": "Ekonomi Global",
+        "url": "https://ekonomi.bisnis.com/ekonomi-global ",
+        "source": "https://www.bisnis.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "6 menit yang lalu",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T18:05:14.725325"
+      }
+    ]
+  }
+}
