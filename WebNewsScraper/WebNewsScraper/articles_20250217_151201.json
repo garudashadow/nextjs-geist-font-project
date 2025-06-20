@@ -1,0 +1,312 @@
+{
+  "metadata": {
+    "timestamp": "2025-02-17T15:12:01.097873",
+    "total_articles": 21,
+    "categories": {
+      "Media Berita Umum": {
+        "count": 6,
+        "sources": [
+          "https://www.liputan6.com/",
+          "https://www.riau24.com/",
+          "https://www.sindonews.com/"
+        ]
+      },
+      "Media Olahraga": {
+        "count": 3,
+        "sources": [
+          "https://www.indosport.com/",
+          "https://olahraga.kompas.com/"
+        ]
+      },
+      "Media Bisnis dan Keuangan": {
+        "count": 12,
+        "sources": [
+          "https://money.id/",
+          "https://finansial.bisnis.com/",
+          "https://www.bisnis.com/"
+        ]
+      }
+    }
+  },
+  "articles": {
+    "Media Berita Umum": [
+      {
+        "title": "Efisiensi Anggaran Bakal Bikin Pertumbuhan Ekonomi RI Loyo",
+        "url": "https://www.liputan6.com/bisnis/read/5925187/efisiensi-anggaran-bakal-bikin-pertumbuhan-ekonomi-ri-loyo",
+        "source": "https://www.liputan6.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T15:08:17.735142"
+      },
+      {
+        "title": "Kakak Menpora Dito  Mesty Ariotedjo Sebut Pemotongan Anggaran Kesehatan dan Pendidikan Bikin Kualitas Masyarakat Rendah",
+        "url": "https://www.liputan6.com/lifestyle/read/5923135/kakak-menpora-dito-mesty-ariotedjo-sebut-pemotongan-anggaran-kesehatan-dan-pendidikan-bikin-kualitas-masyarakat-rendah",
+        "source": "https://www.liputan6.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T15:08:17.753889"
+      },
+      {
+        "title": "Manfaat Daun Pandan untuk Kesehatan  Bisa Turunkan Kolesterol dan Darah Tinggi",
+        "url": "https://www.liputan6.com/citizen6/read/5785632/manfaat-daun-pandan-untuk-kesehatan-bisa-turunkan-kolesterol-dan-darah-tinggi",
+        "source": "https://www.liputan6.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Citizen6",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T15:08:17.972225"
+      },
+      {
+        "title": "Manfaat Pare untuk Kesehatan  Tingkatkan Imunitas hingga Berpotensi Bantu Turunkan Kolesterol",
+        "url": "https://www.liputan6.com/health/read/5924660/manfaat-pare-untuk-kesehatan-tingkatkan-imunitas-hingga-berpotensi-bantu-turunkan-kolesterol",
+        "source": "https://www.liputan6.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Fit   Diet",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T15:08:17.977013"
+      },
+      {
+        "title": "Ekonomi Bisnis",
+        "url": "https://ekbis.sindonews.com/",
+        "source": "https://www.sindonews.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "5 jam yang lalu",
+          "category": "Ekonomi Bisnis",
+          "description": "Ekonomi Bisnis Menaker Beberkan Soal Aturan Korban PHK Dapat 60  Gaji selama 6 Bulan 5 jam yang lalu",
+          "location": "E"
+        },
+        "timestamp": "2025-02-17T15:08:18.242606"
+      },
+      {
+        "title": "Prabowo Bersihkan Tindak Korupsi Di Indonesia Rocky Gerung  Presiden Masih Ingin Lindungi Jokowi",
+        "url": "https://www.youtube.com/watch?v=N2VsVCvdjd0?si=_jbbNuIcFEyBhUqx",
+        "source": "https://www.riau24.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T15:08:18.941025"
+      }
+    ],
+    "Media Olahraga": [
+      {
+        "title": "Olahraga Favorit Para Capres-Cawapres  Mulai Sepeda  Sepak Bola hingga Tinju",
+        "url": "https://www.indosport.com/multi-event/20231024/olahraga-favorit-para-capres-cawapres-mulai-sepeda-sepak-bola-hingga-tinju",
+        "source": "https://www.indosport.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T15:09:35.958353"
+      },
+      {
+        "title": "Upbit Indonesia Dukung Penuh Generasi Muda di Bidang Olahraga Kancah Internasional",
+        "url": "https://bola.kompas.com/read/2024/11/22/22454278/upbit-indonesia-dukung-penuh-generasi-muda-di-bidang-olahraga-kancah",
+        "source": "https://olahraga.kompas.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T15:09:34.656519"
+      },
+      {
+        "title": "UNOCT  Olahraga Sarana Pemersatu Masyarakat  Tangani Ujaran Kebencian",
+        "url": "https://bola.kompas.com/read/2024/10/17/20451088/unoct-olahraga-sarana-pemersatu-masyarakat-tangani-ujaran-kebencian",
+        "source": "https://olahraga.kompas.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T15:09:34.673353"
+      }
+    ],
+    "Media Bisnis dan Keuangan": [
+      {
+        "title": "Mindset yang Tepat Jadi Kunci Generasi Muda Memaksimalkan Manfaat Teknologi",
+        "url": "https://finansial.bisnis.com/read/20250217/563/1840217/mindset-yang-tepat-jadi-kunci-generasi-muda-memaksimalkan-manfaat-teknologi",
+        "source": "https://www.bisnis.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T15:11:08.024553"
+      },
+      {
+        "title": "Ekonomi",
+        "url": "https://ekonomi.bisnis.com/ekonomi ",
+        "source": "https://www.bisnis.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T15:11:08.049055"
+      },
+      {
+        "title": "Sinyal Positif XL Axiata  EXCL  saat Persaingan Bisnis Telko Kian Ketat",
+        "url": "https://market.bisnis.com/read/20250217/7/1840277/sinyal-positif-xl-axiata-excl-saat-persaingan-bisnis-telko-kian-ketat",
+        "source": "https://www.bisnis.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "4 jam yang lalu",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T15:11:08.064140"
+      },
+      {
+        "title": "Historia Bisnis  Putera Sampoerna  Salim  Prajogo Pangestu hingga TP Rachmat Dalam Daftar Pembayar Pajak Terbesar",
+        "url": "https://ekonomi.bisnis.com/read/20250217/259/1840104/historia-bisnis-putera-sampoerna-salim-prajogo-pangestu-hingga-tp-rachmat-dalam-daftar-pembayar-pajak-terbesar",
+        "source": "https://www.bisnis.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "10 jam yang lalu",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T15:11:08.072550"
+      },
+      {
+        "title": "Agribisnis",
+        "url": "https://ekonomi.bisnis.com/agribisnis ",
+        "source": "https://www.bisnis.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "42 menit yang lalu",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T15:11:08.096787"
+      },
+      {
+        "title": "Intip Peluang Kebijakan Impor Donald Trump Bagi Ekonomi RI",
+        "url": "https://ekonomi.bisnis.com/read/20250217/9/1840379/intip-peluang-kebijakan-impor-donald-trump-bagi-ekonomi-ri",
+        "source": "https://www.bisnis.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "18 menit yang lalu",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T15:11:08.132579"
+      },
+      {
+        "title": "Mahasiswa Gelar Aksi Bertajuk Indonesia Gelap Menyikapi Pemotongan Anggaran Pendidikan",
+        "url": "https://foto.bisnis.com/view/20250217/1840351/mahasiswa-gelar-aksi-bertajuk-indonesia-gelap-menyikapi-pemotongan-anggaran-pendidikan",
+        "source": "https://www.bisnis.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "1 jam yang lalu",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T15:11:08.159954"
+      },
+      {
+        "title": "Bisnis com",
+        "url": "https://www.bisnis.com",
+        "source": "https://www.bisnis.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T15:11:08.223475"
+      },
+      {
+        "title": "Bisnis Syariah",
+        "url": "https://finansial.bisnis.com/read/20250216/231/1839975/pembiayaan-syariah-mandiri-utama-finance-naik-11-yoy-kontribusi-185-dari-total-penyaluran",
+        "source": "https://finansial.bisnis.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "16 feb 2025   04 55 wib",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T15:11:08.408022"
+      },
+      {
+        "title": "BISNIS",
+        "url": "https://money.id/tag/b/bisnis/",
+        "source": "https://money.id/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "BISNIS",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T15:11:48.174782"
+      },
+      {
+        "title": "BISNIS SYARIAH",
+        "url": "https://money.id/tag/b/bisnis-syariah/",
+        "source": "https://money.id/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "BISNIS SYARIAH",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T15:11:48.185450"
+      },
+      {
+        "title": "Cerita Wirda Mansur Bangun Bisnis 'Tanpa Modal'",
+        "url": "https://money.id/v-money/cerita-wirda-mansur-bangun-bisnis-tanpa-modal-200630q.html",
+        "source": "https://money.id/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "32-06-29",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T15:11:48.217596"
+      }
+    ]
+  }
+}
