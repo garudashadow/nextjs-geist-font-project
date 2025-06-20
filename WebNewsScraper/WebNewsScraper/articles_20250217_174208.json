@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "timestamp": "2025-02-17T17:42:08.772989",
+    "total_articles": 8,
+    "categories": {
+      "Media Berita Umum": {
+        "count": 4,
+        "sources": [
+          "https://www.liputan6.com/",
+          "https://www.kompas.com/"
+        ]
+      },
+      "Media Olahraga": {
+        "count": 2,
+        "sources": [
+          "https://olahraga.kompas.com/"
+        ]
+      },
+      "Media Bisnis dan Keuangan": {
+        "count": 2,
+        "sources": [
+          "https://ekonomi.kompas.com/",
+          "https://finansial.bisnis.com/"
+        ]
+      }
+    }
+  },
+  "articles": {
+    "Media Berita Umum": [
+      {
+        "title": "Diperiksa Polri  Eks Ketua DPRD Jakarta Mengaku Tak Tahu soal Korupsi Lahan Rusun Cengkareng",
+        "url": "https://www.kgnow.com/watch/1826242/diperiksa-polri-eks-ketua-dprd-jakarta-mengaku-tak-tahu-soal-korupsi-lahan-rusun-cengkareng?source=KOMPASCOM&position=wp_terkini__player_2",
+        "source": "https://www.kompas.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T17:39:19.144338"
+      },
+      {
+        "title": "17 Feb 2025 22 59Kepribadian Guru Adalah Kunci Sukses Pendidikan Berkualitas",
+        "url": "https://www.liputan6.com/feeds/read/5876540/kepribadian-guru-adalah-kunci-sukses-pendidikan-berkualitas",
+        "source": "https://www.liputan6.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "17 feb 2025 22 59",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T17:39:20.637596"
+      },
+      {
+        "title": "17 Feb 2025 20 29Kecam Pemangkasan Anggaran Pendidikan  Mahasiswa di Banyuwangi Lakukan Aksi Unjuk Rasa",
+        "url": "https://www.liputan6.com/regional/read/5925265/kecam-pemangkasan-anggaran-pendidikan-mahasiswa-di-banyuwangi-lakukan-aksi-unjuk-rasa",
+        "source": "https://www.liputan6.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "17 feb 2025 20 29",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T17:39:20.942222"
+      },
+      {
+        "title": "17 Feb 2025 21 04Mahasiswa Tolak Potongan Anggaran Pendidikan hingga RUU Kejaksaan  Polri  dan TNI",
+        "url": "https://www.liputan6.com/news/read/5925483/mahasiswa-tolak-potongan-anggaran-pendidikan-hingga-ruu-kejaksaan-polri-dan-tni",
+        "source": "https://www.liputan6.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "17 feb 2025 21 04",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T17:39:21.115627"
+      }
+    ],
+    "Media Olahraga": [
+      {
+        "title": "Upbit Indonesia Dukung Penuh Generasi Muda di Bidang Olahraga Kancah Internasional",
+        "url": "https://bola.kompas.com/read/2024/11/22/22454278/upbit-indonesia-dukung-penuh-generasi-muda-di-bidang-olahraga-kancah",
+        "source": "https://olahraga.kompas.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T17:40:18.387501"
+      },
+      {
+        "title": "UNOCT  Olahraga Sarana Pemersatu Masyarakat  Tangani Ujaran Kebencian",
+        "url": "https://bola.kompas.com/read/2024/10/17/20451088/unoct-olahraga-sarana-pemersatu-masyarakat-tangani-ujaran-kebencian",
+        "source": "https://olahraga.kompas.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T17:40:18.419092"
+      }
+    ],
+    "Media Bisnis dan Keuangan": [
+      {
+        "title": "Bisnis Syariah",
+        "url": "https://finansial.bisnis.com/read/20250216/231/1839975/pembiayaan-syariah-mandiri-utama-finance-naik-11-yoy-kontribusi-185-dari-total-penyaluran",
+        "source": "https://finansial.bisnis.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "16 feb 2025   04 55 wib",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T17:41:30.250559"
+      },
+      {
+        "title": "Tak Hanya dari Bisnis  Ini 6 Sumber  Passive Income  yang Menjanjikan Cuan 17 02 2025",
+        "url": "https://money.kompas.com/read/2025/02/17/195442326/tak-hanya-dari-bisnis-ini-6-sumber-passive-income-yang-menjanjikan",
+        "source": "https://ekonomi.kompas.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "17 02 2025",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T17:41:30.585725"
+      }
+    ]
+  }
+}
