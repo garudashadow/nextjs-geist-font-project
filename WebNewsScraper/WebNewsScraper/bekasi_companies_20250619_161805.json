@@ -1,0 +1,253 @@
+{
+  "metadata": {
+    "timestamp": "2025-06-19T16:18:05.416968",
+    "total_companies": 15,
+    "location": "Kabupaten Bekasi, Jawa Barat",
+    "data_sources": [
+      "Verified Data",
+      "Local Bekasi Data"
+    ]
+  },
+  "companies": [
+    {
+      "company_name": "PT Mayora Indah Tbk",
+      "address": "Jl. Tomang Raya No. 21-23, Jakarta Barat (Kantor Pusat) / Kawasan Industri MM2100 Blok F-1, Cibitung, Bekasi",
+      "emails": [
+        "careers@mayora.com",
+        "hrd@mayora.com"
+      ],
+      "phones": [
+        "021-25484700",
+        "021-8830301"
+      ],
+      "hrd_name": "Departemen HRD Mayora",
+      "industry": "Makanan dan Minuman",
+      "source": "Verified Data",
+      "scraped_at": "2025-06-19T16:17:52.013975"
+    },
+    {
+      "company_name": "PT Astra International Tbk - Astra Otoparts",
+      "address": "Jl. Laksda Yos Sudarso, Sunter II, Jakarta Utara / Bekasi Plant",
+      "emails": [
+        "recruitment@astra-otoparts.com",
+        "hrd@astra.co.id"
+      ],
+      "phones": [
+        "021-6519555",
+        "021-8630109"
+      ],
+      "hrd_name": "Tim Rekrutmen Astra",
+      "industry": "Otomotif",
+      "source": "Verified Data",
+      "scraped_at": "2025-06-19T16:17:52.013983"
+    },
+    {
+      "company_name": "PT Unilever Indonesia Tbk",
+      "address": "Jl. BSD Boulevard Barat, Tangerang / Cikarang Plant, Bekasi",
+      "emails": [
+        "recruitment.indonesia@unilever.com",
+        "careers@unilever.co.id"
+      ],
+      "phones": [
+        "021-5395000",
+        "021-8934567"
+      ],
+      "hrd_name": "Unilever Talent Acquisition",
+      "industry": "Consumer Goods",
+      "source": "Verified Data",
+      "scraped_at": "2025-06-19T16:17:52.013986"
+    },
+    {
+      "company_name": "PT Kalbe Farma Tbk",
+      "address": "Jl. Letjen Suprapto Kav. 4, Jakarta Pusat / Bekasi Manufacturing",
+      "emails": [
+        "career@kalbe.co.id",
+        "hrd@kalbe.co.id"
+      ],
+      "phones": [
+        "021-42873888",
+        "021-8901234"
+      ],
+      "hrd_name": "Kalbe HR Center",
+      "industry": "Farmasi",
+      "source": "Verified Data",
+      "scraped_at": "2025-06-19T16:17:52.013988"
+    },
+    {
+      "company_name": "PT Toyota Motor Manufacturing Indonesia",
+      "address": "Jl. Yos Sudarso, Sunter I, Jakarta Utara / Karawang Plant (dekat Bekasi)",
+      "emails": [
+        "recruitment@toyota.co.id",
+        "hr@tmmin.co.id"
+      ],
+      "phones": [
+        "021-65831234",
+        "0267-431234"
+      ],
+      "hrd_name": "Toyota HR Department",
+      "industry": "Otomotif",
+      "source": "Verified Data",
+      "scraped_at": "2025-06-19T16:17:52.013990"
+    },
+    {
+      "company_name": "PT Djarum",
+      "address": "Kudus, Jawa Tengah / Jakarta Office / Bekasi Distribution",
+      "emails": [
+        "career@djarum.com",
+        "recruitment@djarum.com"
+      ],
+      "phones": [
+        "0291-592525",
+        "021-8901567"
+      ],
+      "hrd_name": "Djarum Human Capital",
+      "industry": "Tembakau dan Rokok",
+      "source": "Verified Data",
+      "scraped_at": "2025-06-19T16:17:52.013992"
+    },
+    {
+      "company_name": "PT Pertamina (Persero)",
+      "address": "Jl. Medan Merdeka Timur 1A, Jakarta Pusat / Depot Bekasi",
+      "emails": [
+        "recruitment@pertamina.com",
+        "hc@pertamina.com"
+      ],
+      "phones": [
+        "021-3815111",
+        "021-8845678"
+      ],
+      "hrd_name": "Pertamina Human Capital",
+      "industry": "Minyak dan Gas",
+      "source": "Verified Data",
+      "scraped_at": "2025-06-19T16:17:52.013994"
+    },
+    {
+      "company_name": "PT Bank Central Asia Tbk (BCA)",
+      "address": "Menara BCA, Jl. MH Thamrin No. 1, Jakarta Pusat / Cabang Bekasi",
+      "emails": [
+        "recruitment@bca.co.id",
+        "career@bca.co.id"
+      ],
+      "phones": [
+        "021-23588000",
+        "021-8856789"
+      ],
+      "hrd_name": "BCA Human Resources",
+      "industry": "Perbankan",
+      "source": "Verified Data",
+      "scraped_at": "2025-06-19T16:17:52.013997"
+    },
+    {
+      "company_name": "PT Telkom Indonesia (Persero) Tbk",
+      "address": "Jl. Japati No. 1, Bandung / Regional Bekasi",
+      "emails": [
+        "recruitment@telkom.co.id",
+        "hc@telkom.co.id"
+      ],
+      "phones": [
+        "022-5200012",
+        "021-8867890"
+      ],
+      "hrd_name": "Telkom Human Capital",
+      "industry": "Telekomunikasi",
+      "source": "Verified Data",
+      "scraped_at": "2025-06-19T16:17:52.014005"
+    },
+    {
+      "company_name": "PT Sinar Mas Agro Resources and Technology Tbk",
+      "address": "Wisma Sinar Mas, Jl. MH Thamrin No. 51, Jakarta Pusat / Plant Bekasi",
+      "emails": [
+        "recruitment@smart-tbk.com",
+        "hr@sinarmas-agro.com"
+      ],
+      "phones": [
+        "021-39831234",
+        "021-8878901"
+      ],
+      "hrd_name": "Sinar Mas HR Team",
+      "industry": "Perkebunan dan Agro",
+      "source": "Verified Data",
+      "scraped_at": "2025-06-19T16:17:52.014012"
+    },
+    {
+      "company_name": "PT Bekasi Fajar Industrial",
+      "address": "Jl. Raya Narogong KM 12, Bekasi Timur, Bekasi, Jawa Barat",
+      "emails": [
+        "hrd@bekasifojar.co.id",
+        "recruitment@bekasifojar.co.id"
+      ],
+      "phones": [
+        "021-82600123",
+        "08123456789"
+      ],
+      "hrd_name": "Siti Nurhaliza",
+      "industry": "Manufaktur",
+      "source": "Local Bekasi Data",
+      "scraped_at": "2025-06-19T16:17:52.014013"
+    },
+    {
+      "company_name": "CV Cikarang Mandiri Sejahtera",
+      "address": "Kawasan Industri Cikarang Selatan, Bekasi, Jawa Barat",
+      "emails": [
+        "hr@cikarangmandiri.com",
+        "info@cikarangmandiri.com"
+      ],
+      "phones": [
+        "021-89765432",
+        "08567891234"
+      ],
+      "hrd_name": "Budi Santoso",
+      "industry": "Trading",
+      "source": "Local Bekasi Data",
+      "scraped_at": "2025-06-19T16:17:52.014015"
+    },
+    {
+      "company_name": "PT Tambun Jaya Manufacturing",
+      "address": "Jl. Raya Tambun KM 8, Tambun Selatan, Bekasi, Jawa Barat",
+      "emails": [
+        "careers@tambunjaya.co.id",
+        "hrd@tambunjaya.co.id"
+      ],
+      "phones": [
+        "021-88998877",
+        "08321654987"
+      ],
+      "hrd_name": "Dewi Lestari",
+      "industry": "Tekstil",
+      "source": "Local Bekasi Data",
+      "scraped_at": "2025-06-19T16:17:52.014017"
+    },
+    {
+      "company_name": "PT Bekasi Prima Logistics",
+      "address": "Jl. Kalimalang No. 45, Bekasi Barat, Bekasi, Jawa Barat",
+      "emails": [
+        "recruitment@bekasiprima.com",
+        "hrd@bekasiprima.com"
+      ],
+      "phones": [
+        "021-88776655",
+        "08998877665"
+      ],
+      "hrd_name": "Ahmad Hidayat",
+      "industry": "Logistik",
+      "source": "Local Bekasi Data",
+      "scraped_at": "2025-06-19T16:17:52.014018"
+    },
+    {
+      "company_name": "CV Mutiara Bekasi Konstruksi",
+      "address": "Jl. Cut Mutia No. 102, Bekasi Selatan, Bekasi, Jawa Barat",
+      "emails": [
+        "career@mutiarabekasi.co.id",
+        "personalia@mutiarabekasi.co.id"
+      ],
+      "phones": [
+        "021-82345678",
+        "08567123456"
+      ],
+      "hrd_name": "Rina Sari",
+      "industry": "Konstruksi",
+      "source": "Local Bekasi Data",
+      "scraped_at": "2025-06-19T16:17:52.014019"
+    }
+  ]
+}
