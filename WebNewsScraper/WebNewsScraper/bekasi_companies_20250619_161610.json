@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "timestamp": "2025-06-19T16:16:10.585294",
+    "total_companies": 3,
+    "location": "Kabupaten Bekasi, Jawa Barat",
+    "data_sources": [
+      "Sample Data"
+    ]
+  },
+  "companies": [
+    {
+      "company_name": "PT Bekasi Maju Sejahtera",
+      "address": "Jl. Ahmad Yani No. 123, Bekasi Timur, Bekasi, Jawa Barat",
+      "emails": [
+        "hrd@bekasimauju.co.id",
+        "recruitment@bekasimauju.co.id"
+      ],
+      "phones": [
+        "021-88123456",
+        "08123456789"
+      ],
+      "hrd_name": "Siti Nurhaliza",
+      "source": "Sample Data",
+      "scraped_at": "2025-06-19T16:15:58.376386"
+    },
+    {
+      "company_name": "CV Cikarang Industrial",
+      "address": "Kawasan Industri Cikarang, Bekasi, Jawa Barat",
+      "emails": [
+        "hr@cikarangindustrial.com"
+      ],
+      "phones": [
+        "021-89765432",
+        "08567891234"
+      ],
+      "hrd_name": "Budi Santoso",
+      "source": "Sample Data",
+      "scraped_at": "2025-06-19T16:15:58.376394"
+    },
+    {
+      "company_name": "PT Tambun Manufacturing",
+      "address": "Jl. Raya Tambun KM 8, Tambun Selatan, Bekasi, Jawa Barat",
+      "emails": [
+        "info@tambunmfg.co.id",
+        "careers@tambunmfg.co.id"
+      ],
+      "phones": [
+        "021-88998877",
+        "08321654987"
+      ],
+      "hrd_name": "Dewi Lestari",
+      "source": "Sample Data",
+      "scraped_at": "2025-06-19T16:15:58.376397"
+    }
+  ]
+}
