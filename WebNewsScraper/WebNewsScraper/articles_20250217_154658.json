@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "timestamp": "2025-02-17T15:46:58.281384",
+    "total_articles": 1,
+    "categories": {
+      "Media Berita Umum": {
+        "count": 1,
+        "sources": [
+          "https://www.riau24.com/"
+        ]
+      }
+    }
+  },
+  "articles": {
+    "Media Berita Umum": [
+      {
+        "title": "PTPN IV Regional III Perkuat Budaya Kesehatan dan Keselamatan Kerja",
+        "url": "https://www.riau24.com/berita/baca/1739624606-ptpn-iv-regional-iii-perkuat-budaya-kesehatan-dan-keselamatan-kerja",
+        "source": "https://www.riau24.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "15 feb 2025  10 02",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T15:43:50.461212"
+      }
+    ]
+  }
+}
