@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "timestamp": "2025-06-19T16:32:30.549256",
+    "total_articles": 7,
+    "categories": {
+      "Media Berita Umum": {
+        "count": 5,
+        "sources": [
+          "https://www.liputan6.com/",
+          "https://www.kompas.com/"
+        ]
+      },
+      "Media Olahraga": {
+        "count": 1,
+        "sources": [
+          "https://olahraga.kompas.com/"
+        ]
+      },
+      "Media Bisnis dan Keuangan": {
+        "count": 1,
+        "sources": [
+          "https://ekonomi.kompas.com/"
+        ]
+      }
+    }
+  },
+  "articles": {
+    "Media Berita Umum": [
+      {
+        "title": "Didukung Komisi V DPR  Gubri Abdul Wahid Inisiasi Pengembangan Kawasan Bisnis di Stadion Utama Riau",
+        "url": "https://regional.kompas.com/read/2025/06/19/210042978/didukung-komisi-v-dpr-gubri-abdul-wahid-inisiasi-pengembangan-kawasan",
+        "source": "https://www.kompas.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T16:29:05.963317"
+      },
+      {
+        "title": "Geopolitik Memanas  Investor Lebih Pilih Investasi Emas atau Bitcoin",
+        "url": "https://www.liputan6.com/crypto/read/6057085/geopolitik-memanas-investor-lebih-pilih-investasi-emas-atau-bitcoin",
+        "source": "https://www.liputan6.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T16:29:05.531461"
+      },
+      {
+        "title": "Strategi Pelaku Industri Kripto Hadapi Tantangan Sentimen Geopolitik",
+        "url": "https://www.liputan6.com/crypto/read/6057044/strategi-pelaku-industri-kripto-hadapi-tantangan-sentimen-geopolitik",
+        "source": "https://www.liputan6.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T16:29:05.532807"
+      },
+      {
+        "title": "Kripto jadi Aset Safe Haven di Tengah Tensi Geopolitik  Ini Kata Pengamat",
+        "url": "https://www.liputan6.com/crypto/read/6057006/kripto-jadi-aset-safe-haven-di-tengah-tensi-geopolitik-ini-kata-pengamat",
+        "source": "https://www.liputan6.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T16:29:05.534039"
+      },
+      {
+        "title": "Heboh Penampakan Uang Triliunan Kasus Korupsi CPO  Terbesar dalam Sejarah Kejagung",
+        "url": "https://www.liputan6.com/news/read/6055435/heboh-penampakan-uang-triliunan-kasus-korupsi-cpo-terbesar-dalam-sejarah-kejagung",
+        "source": "https://www.liputan6.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Rajut",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T16:29:05.584857"
+      }
+    ],
+    "Media Olahraga": [
+      {
+        "title": "Upbit Indonesia Dukung Penuh Generasi Muda di Bidang Olahraga Kancah Internasional",
+        "url": "https://bola.kompas.com/read/2024/11/22/22454278/upbit-indonesia-dukung-penuh-generasi-muda-di-bidang-olahraga-kancah",
+        "source": "https://olahraga.kompas.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T16:30:16.669756"
+      }
+    ],
+    "Media Bisnis dan Keuangan": [
+      {
+        "title": "Survei  Mayoritas Masyarakat RI Optimis Hadapi Perekonomian Masa Depan Ekbis 19 06 2025",
+        "url": "https://money.kompas.com/read/2025/06/19/175941726/survei-mayoritas-masyarakat-ri-optimis-hadapi-perekonomian-masa-depan",
+        "source": "https://ekonomi.kompas.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "19 06 2025",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T16:31:27.427092"
+      }
+    ]
+  }
+}
