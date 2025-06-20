@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "timestamp": "2025-06-19T21:32:23.858350",
+    "total_companies": 1,
+    "location": "Kabupaten Bekasi, Jawa Barat",
+    "data_sources": [
+      "CSV Import"
+    ]
+  },
+  "companies": [
+    {
+      "company_name": "PT Contoh Abadi",
+      "address": "Jl. Industri 1",
+      "emails": [
+        "Cikarang"
+      ],
+      "phones": [
+        "hrd@contohabadi.com"
+      ],
+      "hrd_name": "021-1234567",
+      "source": "CSV Import",
+      "scraped_at": "2025-06-19T21:32:23.858333"
+    }
+  ]
+}
