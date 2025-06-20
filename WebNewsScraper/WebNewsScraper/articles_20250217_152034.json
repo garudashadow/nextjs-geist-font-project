@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "timestamp": "2025-02-17T15:20:34.719802",
+    "total_articles": 2,
+    "categories": {
+      "Media Berita Umum": {
+        "count": 2,
+        "sources": [
+          "https://www.medcom.id/"
+        ]
+      }
+    }
+  },
+  "articles": {
+    "Media Berita Umum": [
+      {
+        "title": "Olahraga",
+        "url": "https://www.medcom.id/foto/olahraga",
+        "source": "https://www.medcom.id/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T15:17:17.891321"
+      },
+      {
+        "title": "Olahraga",
+        "url": "https://www.medcom.id/olahraga",
+        "source": "https://www.medcom.id/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T15:17:17.899034"
+      }
+    ]
+  }
+}
