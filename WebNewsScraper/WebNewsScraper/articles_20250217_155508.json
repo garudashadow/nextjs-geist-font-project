@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "timestamp": "2025-02-17T15:55:08.170838",
+    "total_articles": 1,
+    "categories": {
+      "Media Berita Umum": {
+        "count": 1,
+        "sources": [
+          "https://www.viva.co.id/"
+        ]
+      }
+    }
+  },
+  "articles": {
+    "Media Berita Umum": [
+      {
+        "title": "Demo Indonesia Gelap  Mahasiswa Tolak Potongan Anggaran Pendidikan hingga RUU Kejaksaan  Polri dan TNI",
+        "url": "https://www.viva.co.id/berita/nasional/1799441-demo-indonesia-gelap-mahasiswa-tolak-potongan-anggaran-pendidikan-hingga-ruu-kejaksaan-polri-dan-tni",
+        "source": "https://www.viva.co.id/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "8 menit lalu",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T15:52:14.362688"
+      }
+    ]
+  }
+}
