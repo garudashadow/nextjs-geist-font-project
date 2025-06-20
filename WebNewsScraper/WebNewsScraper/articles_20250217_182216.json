@@ -1,0 +1,446 @@
+{
+  "metadata": {
+    "timestamp": "2025-02-17T18:22:16.020032",
+    "total_articles": 31,
+    "categories": {
+      "Media Berita Umum": {
+        "count": 15,
+        "sources": [
+          "https://www.sindonews.com/",
+          "https://www.riau24.com/",
+          "https://www.kompas.com/",
+          "https://www.jpnn.com/",
+          "https://www.medcom.id/",
+          "https://www.liputan6.com/"
+        ]
+      },
+      "Media Olahraga": {
+        "count": 3,
+        "sources": [
+          "https://olahraga.kompas.com/",
+          "https://www.indosport.com/"
+        ]
+      },
+      "Media Bisnis dan Keuangan": {
+        "count": 13,
+        "sources": [
+          "https://finansial.bisnis.com/",
+          "https://ekonomi.kompas.com/",
+          "https://money.id/",
+          "https://www.bisnis.com/"
+        ]
+      }
+    }
+  },
+  "articles": {
+    "Media Berita Umum": [
+      {
+        "title": "Olahraga Selasa  18 Februari 2025   00 01 WIB",
+        "url": "https://kaltim.jpnn.com/olahraga/3020/klasemen-liga-1-usai-arema-menang-besar-atas-pss-borneo-fc-ditempel-ketat-singo-edan",
+        "source": "https://www.jpnn.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Olahraga Selasa  18 Februari 2025   00 01 WIB",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T18:19:06.229593"
+      },
+      {
+        "title": "Olahraga Selasa  18 Februari 2025   00 00 WIB",
+        "url": "https://jakarta.jpnn.com/olahraga/1411/persija-vs-persib-imbang-marc-klok-kami-seharusnya-menang",
+        "source": "https://www.jpnn.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Olahraga Selasa  18 Februari 2025   00 00 WIB",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T18:19:06.240459"
+      },
+      {
+        "title": "Politik Senin  17 Februari 2025   22 10 WIB",
+        "url": "https://jatim.jpnn.com/politik/35551/promeg-jatim-sebut-ada-upaya-melemahkan-pdi-perjuangan-jelang-kongres",
+        "source": "https://www.jpnn.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Politik Senin  17 Februari 2025   22 10 WIB",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T18:19:06.295616"
+      },
+      {
+        "title": "Olahraga Senin  17 Februari 2025   22 04 WIB",
+        "url": "https://kaltim.jpnn.com/olahraga/3018/adam-alis-jadi-pemain-terbaik-di-laga-persija-vs-persib-begini-kata-gelandang-borneo-fc",
+        "source": "https://www.jpnn.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Olahraga Senin  17 Februari 2025   22 04 WIB",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T18:19:06.301890"
+      },
+      {
+        "title": "Kriminal Senin  17 Februari 2025   22 00 WIB",
+        "url": "https://jakarta.jpnn.com/kriminal/1421/pencuri-sepeda-motor-ancam-polisi-pakai-senjata-tajam-dor-kaki-ditembak",
+        "source": "https://www.jpnn.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Kriminal Senin  17 Februari 2025   22 00 WIB",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T18:19:06.307041"
+      },
+      {
+        "title": "Politik Senin  17 Februari 2025   21 18 WIB",
+        "url": "https://www.jpnn.com/news/mahasiswa-demo-tolak-pemangkasan-anggaran-dan-3-ruu-tni-polri-kejaksaan",
+        "source": "https://www.jpnn.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Politik Senin  17 Februari 2025   21 18 WIB",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T18:19:06.366583"
+      },
+      {
+        "title": "Diperiksa Polri  Eks Ketua DPRD Jakarta Mengaku Tak Tahu soal Korupsi Lahan Rusun Cengkareng",
+        "url": "https://www.kgnow.com/watch/1826242/diperiksa-polri-eks-ketua-dprd-jakarta-mengaku-tak-tahu-soal-korupsi-lahan-rusun-cengkareng?source=KOMPASCOM&position=wp_terkini__player_2",
+        "source": "https://www.kompas.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T18:19:04.999219"
+      },
+      {
+        "title": "Efisiensi Anggaran Bakal Bikin Pertumbuhan Ekonomi RI Loyo",
+        "url": "https://www.liputan6.com/bisnis/read/5925187/efisiensi-anggaran-bakal-bikin-pertumbuhan-ekonomi-ri-loyo",
+        "source": "https://www.liputan6.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T18:19:05.821187"
+      },
+      {
+        "title": "Kakak Menpora Dito  Mesty Ariotedjo Sebut Pemotongan Anggaran Kesehatan dan Pendidikan Bikin Kualitas Masyarakat Rendah",
+        "url": "https://www.liputan6.com/lifestyle/read/5923135/kakak-menpora-dito-mesty-ariotedjo-sebut-pemotongan-anggaran-kesehatan-dan-pendidikan-bikin-kualitas-masyarakat-rendah",
+        "source": "https://www.liputan6.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T18:19:05.835700"
+      },
+      {
+        "title": "Manfaat Daun Pandan untuk Kesehatan  Bisa Turunkan Kolesterol dan Darah Tinggi",
+        "url": "https://www.liputan6.com/citizen6/read/5785632/manfaat-daun-pandan-untuk-kesehatan-bisa-turunkan-kolesterol-dan-darah-tinggi",
+        "source": "https://www.liputan6.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Citizen6",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T18:19:05.979858"
+      },
+      {
+        "title": "Manfaat Pare untuk Kesehatan  Tingkatkan Imunitas hingga Berpotensi Bantu Turunkan Kolesterol",
+        "url": "https://www.liputan6.com/health/read/5924660/manfaat-pare-untuk-kesehatan-tingkatkan-imunitas-hingga-berpotensi-bantu-turunkan-kolesterol",
+        "source": "https://www.liputan6.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Fit   Diet",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T18:19:05.991869"
+      },
+      {
+        "title": "Ekonomi Bisnis",
+        "url": "https://ekbis.sindonews.com/",
+        "source": "https://www.sindonews.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "8 jam yang lalu",
+          "category": "Ekonomi Bisnis",
+          "description": "Ekonomi Bisnis Menaker Beberkan Soal Aturan Korban PHK Dapat 60  Gaji selama 6 Bulan 8 jam yang lalu",
+          "location": "E"
+        },
+        "timestamp": "2025-02-17T18:19:05.236963"
+      },
+      {
+        "title": "Olahraga",
+        "url": "https://www.medcom.id/foto/olahraga",
+        "source": "https://www.medcom.id/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T18:19:06.658772"
+      },
+      {
+        "title": "Olahraga",
+        "url": "https://www.medcom.id/olahraga",
+        "source": "https://www.medcom.id/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T18:19:06.669547"
+      },
+      {
+        "title": "Prabowo Bersihkan Tindak Korupsi Di Indonesia Rocky Gerung  Presiden Masih Ingin Lindungi Jokowi",
+        "url": "https://www.youtube.com/watch?v=N2VsVCvdjd0?si=_jbbNuIcFEyBhUqx",
+        "source": "https://www.riau24.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T18:19:06.952689"
+      }
+    ],
+    "Media Olahraga": [
+      {
+        "title": "Olahraga Favorit Para Capres-Cawapres  Mulai Sepeda  Sepak Bola hingga Tinju",
+        "url": "https://www.indosport.com/multi-event/20231024/olahraga-favorit-para-capres-cawapres-mulai-sepeda-sepak-bola-hingga-tinju",
+        "source": "https://www.indosport.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T18:20:14.815296"
+      },
+      {
+        "title": "Upbit Indonesia Dukung Penuh Generasi Muda di Bidang Olahraga Kancah Internasional",
+        "url": "https://bola.kompas.com/read/2024/11/22/22454278/upbit-indonesia-dukung-penuh-generasi-muda-di-bidang-olahraga-kancah",
+        "source": "https://olahraga.kompas.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T18:20:15.460584"
+      },
+      {
+        "title": "UNOCT  Olahraga Sarana Pemersatu Masyarakat  Tangani Ujaran Kebencian",
+        "url": "https://bola.kompas.com/read/2024/10/17/20451088/unoct-olahraga-sarana-pemersatu-masyarakat-tangani-ujaran-kebencian",
+        "source": "https://olahraga.kompas.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T18:20:15.480752"
+      }
+    ],
+    "Media Bisnis dan Keuangan": [
+      {
+        "title": "Mindset yang Tepat Jadi Kunci Generasi Muda Memaksimalkan Manfaat Teknologi",
+        "url": "https://finansial.bisnis.com/read/20250217/563/1840217/mindset-yang-tepat-jadi-kunci-generasi-muda-memaksimalkan-manfaat-teknologi",
+        "source": "https://www.bisnis.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T18:21:34.969028"
+      },
+      {
+        "title": "Ekonomi",
+        "url": "https://ekonomi.bisnis.com/ekonomi ",
+        "source": "https://www.bisnis.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T18:21:34.995096"
+      },
+      {
+        "title": "Sinyal Positif XL Axiata  EXCL  saat Persaingan Bisnis Telko Kian Ketat",
+        "url": "https://market.bisnis.com/read/20250217/7/1840277/sinyal-positif-xl-axiata-excl-saat-persaingan-bisnis-telko-kian-ketat",
+        "source": "https://www.bisnis.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "7 jam yang lalu",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T18:21:35.012918"
+      },
+      {
+        "title": "Historia Bisnis  Putera Sampoerna  Salim  Prajogo Pangestu hingga TP Rachmat Dalam Daftar Pembayar Pajak Terbesar",
+        "url": "https://ekonomi.bisnis.com/read/20250217/259/1840104/historia-bisnis-putera-sampoerna-salim-prajogo-pangestu-hingga-tp-rachmat-dalam-daftar-pembayar-pajak-terbesar",
+        "source": "https://www.bisnis.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "13 jam yang lalu",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T18:21:35.025548"
+      },
+      {
+        "title": "Sains   Teknologi",
+        "url": "https://teknologi.bisnis.com/sains-teknologi ",
+        "source": "https://www.bisnis.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "2 jam yang lalu",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T18:21:35.052326"
+      },
+      {
+        "title": "Mahasiswa Gelar Aksi Bertajuk Indonesia Gelap Menyikapi Pemotongan Anggaran Pendidikan",
+        "url": "https://foto.bisnis.com/view/20250217/1840351/mahasiswa-gelar-aksi-bertajuk-indonesia-gelap-menyikapi-pemotongan-anggaran-pendidikan",
+        "source": "https://www.bisnis.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "5 jam yang lalu",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T18:21:35.169411"
+      },
+      {
+        "title": "Agribisnis",
+        "url": "https://ekonomi.bisnis.com/agribisnis ",
+        "source": "https://www.bisnis.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "3 jam yang lalu",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T18:21:35.205747"
+      },
+      {
+        "title": "Bisnis com",
+        "url": "https://www.bisnis.com",
+        "source": "https://www.bisnis.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T18:21:35.250276"
+      },
+      {
+        "title": "Bisnis Syariah",
+        "url": "https://finansial.bisnis.com/read/20250216/231/1839975/pembiayaan-syariah-mandiri-utama-finance-naik-11-yoy-kontribusi-185-dari-total-penyaluran",
+        "source": "https://finansial.bisnis.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "16 feb 2025   04 55 wib",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T18:21:35.473871"
+      },
+      {
+        "title": "BISNIS",
+        "url": "https://money.id/tag/b/bisnis/",
+        "source": "https://money.id/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "BISNIS",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T18:22:15.943315"
+      },
+      {
+        "title": "BISNIS SYARIAH",
+        "url": "https://money.id/tag/b/bisnis-syariah/",
+        "source": "https://money.id/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "BISNIS SYARIAH",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T18:22:15.963514"
+      },
+      {
+        "title": "Cerita Wirda Mansur Bangun Bisnis 'Tanpa Modal'",
+        "url": "https://money.id/v-money/cerita-wirda-mansur-bangun-bisnis-tanpa-modal-200630q.html",
+        "source": "https://money.id/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "32-06-29",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T18:22:16.003597"
+      },
+      {
+        "title": "Tak Hanya dari Bisnis  Ini 6 Sumber  Passive Income  yang Menjanjikan Cuan 17 02 2025",
+        "url": "https://money.kompas.com/read/2025/02/17/195442326/tak-hanya-dari-bisnis-ini-6-sumber-passive-income-yang-menjanjikan",
+        "source": "https://ekonomi.kompas.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "17 02 2025",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T18:21:35.865235"
+      }
+    ]
+  }
+}
