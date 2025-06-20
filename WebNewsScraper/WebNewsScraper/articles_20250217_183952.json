@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "timestamp": "2025-02-17T18:39:52.896044",
+    "total_articles": 1,
+    "categories": {
+      "Media Berita Umum": {
+        "count": 1,
+        "sources": [
+          "https://www.viva.co.id/"
+        ]
+      }
+    }
+  },
+  "articles": {
+    "Media Berita Umum": [
+      {
+        "title": "Pertumbuhan Ekonomi Melambat  Strategi Ini Disebut Mampu Pulihkan Sektor Kunci",
+        "url": "https://www.viva.co.id/bisnis/1799378-pertumbuhan-ekonomi-melambat-strategi-ini-disebut-mampu-pulihkan-sektor-kunci",
+        "source": "https://www.viva.co.id/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "3 menit lalu",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T18:36:14.602368"
+      }
+    ]
+  }
+}
