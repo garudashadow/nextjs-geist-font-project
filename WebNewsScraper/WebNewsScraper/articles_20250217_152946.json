@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "timestamp": "2025-02-17T15:29:46.890654",
+    "total_articles": 1,
+    "categories": {
+      "Media Berita Umum": {
+        "count": 1,
+        "sources": [
+          "https://www.riau24.com/"
+        ]
+      }
+    }
+  },
+  "articles": {
+    "Media Berita Umum": [
+      {
+        "title": "Terbukti Lewat Studi  Bumbu Dapur Ini Jadi Asupan Nomor 1 untuk Kesehatan Otak",
+        "url": "https://www.riau24.com/berita/baca/1739625004-terbukti-lewat-studi-bumbu-dapur-ini-jadi-asupan-nomor-1-untuk-kesehatan-otak",
+        "source": "https://www.riau24.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "15 feb 2025  19 08",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T15:25:52.163145"
+      }
+    ]
+  }
+}
