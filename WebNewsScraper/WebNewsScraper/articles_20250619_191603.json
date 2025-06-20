@@ -1,0 +1,178 @@
+{
+  "metadata": {
+    "timestamp": "2025-06-19T19:16:03.418741",
+    "total_articles": 11,
+    "categories": {
+      "Media Berita Umum": {
+        "count": 2,
+        "sources": [
+          "https://www.kompas.com/",
+          "https://www.viva.co.id/"
+        ]
+      },
+      "Media Olahraga": {
+        "count": 2,
+        "sources": [
+          "https://www.bola.com/"
+        ]
+      },
+      "Media Bisnis dan Keuangan": {
+        "count": 7,
+        "sources": [
+          "https://www.kontan.co.id/"
+        ]
+      }
+    }
+  },
+  "articles": {
+    "Media Berita Umum": [
+      {
+        "title": "Didukung Komisi V DPR  Gubri Abdul Wahid Inisiasi Pengembangan Kawasan Bisnis di Stadion Utama Riau",
+        "url": "https://regional.kompas.com/read/2025/06/19/210042978/didukung-komisi-v-dpr-gubri-abdul-wahid-inisiasi-pengembangan-kawasan",
+        "source": "https://www.kompas.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T19:13:09.490747"
+      },
+      {
+        "title": "Cak Imin  Jakarta Fair 2025 Upaya Perkuat Ekonomi Indonesia",
+        "url": "https://www.viva.co.id/berita/metro/1832720-cak-imin-jakarta-fair-2025-upaya-perkuat-ekonomi-indonesia",
+        "source": "https://www.viva.co.id/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "10 menit lalu",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T19:13:10.225152"
+      }
+    ],
+    "Media Olahraga": [
+      {
+        "title": "19 Jun 2025 18 007 Event Olahraga yang Paling Banyak Ditonton di Seluruh Dunia  Mendulang Pundi-pundi Uang yang Luar Biasa",
+        "url": "https://www.bola.com/ragam/read/6056518/7-event-olahraga-yang-paling-banyak-ditonton-di-seluruh-dunia-mendulang-pundi-pundi-uang-yang-luar-biasa",
+        "source": "https://www.bola.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "19 jun 2025 18 00",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T19:14:33.039787"
+      },
+      {
+        "title": "19 Jun 2025 09 55Bikin Guncang Dunia Olahraga  Ini Gurita Bisnis Pemilik Baru LA Lakers  dari Chelsea sampai F1  Pengelola Aset 2 Kali APBN Indonesia 2025",
+        "url": "https://www.bola.com/ragam/read/6056348/bikin-guncang-dunia-olahraga-ini-gurita-bisnis-pemilik-baru-la-lakers-dari-chelsea-sampai-f1-pengelola-aset-2-kali-apbn-indonesia-2025",
+        "source": "https://www.bola.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "19 jun 2025 09 55",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T19:14:33.320027"
+      }
+    ],
+    "Media Bisnis dan Keuangan": [
+      {
+        "title": "Kesehatan",
+        "url": "https://kesehatan.kontan.co.id/",
+        "source": "https://www.kontan.co.id/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T19:15:22.104316"
+      },
+      {
+        "title": "Indeks Saham Terbakar Suhu Geopolitik yang Tinggi",
+        "url": "https://insight.kontan.co.id/news/indeks-saham-terbakar-suhu-geopolitik-yang-tinggi",
+        "source": "https://www.kontan.co.id/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T19:15:22.130018"
+      },
+      {
+        "title": "IMF  Perang Iran-Israel Memperparah Kondisi Perekonomian Dunia  Hati-Hati Ancaman Resesi Global",
+        "url": "https://tv.kontan.co.id/video/dyoj-U8hY10",
+        "source": "https://www.kontan.co.id/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T19:15:22.140519"
+      },
+      {
+        "title": "Realisasi Dana BOS Mencapai Rp27 35 Triliun untuk Mendukung Pendidikan di Indonesia",
+        "url": "https://nasional.kontan.co.id/news/realisasi-dana-bos-mencapai-rp2735-triliun-untuk-mendukung-pendidikan-di-indonesia",
+        "source": "https://www.kontan.co.id/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T19:15:22.148488"
+      },
+      {
+        "title": "Indeks Saham Terbakar Suhu Geopolitik yang Tinggi",
+        "url": "https://insight.kontan.co.id/news/indeks-saham-terbakar-suhu-geopolitik-yang-tinggi?utm_medium=box_insight",
+        "source": "https://www.kontan.co.id/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T19:15:22.154664"
+      },
+      {
+        "title": "Teknologi Baterai Huawei Bikin Takjub  Mampu Tempuh 3 000 Km  Ngecas Cuma 5 Menit",
+        "url": "https://internasional.kontan.co.id/news/teknologi-baterai-huawei-bikin-takjub-mampu-tempuh-3000-km-ngecas-cuma-5-menit",
+        "source": "https://www.kontan.co.id/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T19:15:22.187940"
+      },
+      {
+        "title": "THR Cair  Ekonomi Berdenyut  Lebaran Jadi Momen Penggerak Daya Beli Nasional",
+        "url": "https://Fokus.kontan.co.id/news/thr-cair-ekonomi-berdenyut-lebaran-jadi-momen-penggerak-daya-beli-nasional",
+        "source": "https://www.kontan.co.id/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T19:15:22.234557"
+      }
+    ]
+  }
+}
