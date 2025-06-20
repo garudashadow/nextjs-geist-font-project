@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "timestamp": "2025-02-17T16:13:12.185759",
+    "total_articles": 1,
+    "categories": {
+      "Media Bisnis dan Keuangan": {
+        "count": 1,
+        "sources": [
+          "https://www.bisnis.com/"
+        ]
+      }
+    }
+  },
+  "articles": {
+    "Media Bisnis dan Keuangan": [
+      {
+        "title": "Sains   Teknologi",
+        "url": "https://teknologi.bisnis.com/sains-teknologi ",
+        "source": "https://www.bisnis.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "4 menit yang lalu",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T16:11:46.416643"
+      }
+    ]
+  }
+}
