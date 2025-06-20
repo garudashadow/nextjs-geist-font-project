@@ -1,0 +1,178 @@
+import requests
+from bs4 import BeautifulSoup
+import pymysql
+import pymongo
+import time
+import json
+import concurrent.futures
+from telegram import Bot
+
+# 🔹 KONFIGURASI DATABASE 🔹
+USE_MYSQL = True  # Jika ingin pakai MySQL, set True; jika pakai MongoDB, set False
+
+MYSQL_CONFIG = {
+    "host": "your_mysql_host",
+    "user": "your_mysql_user",
+    "password": "your_mysql_password",
+    "database": "your_database_name"
+}
+
+MONGO_CONFIG = {
+    "host": "your_mongodb_host",
+    "port": 27017,
+    "database": "berita_db",
+    "collection": "berita"
+}
+
+# 🔹 KONFIGURASI TELEGRAM 🔹
+TELEGRAM_BOT_TOKEN = "your_telegram_bot_token"
+TELEGRAM_CHAT_ID = "your_chat_id"
+bot = Bot(token=TELEGRAM_BOT_TOKEN)
+
+# 🔹 DAFTAR MEDIA ONLINE INDONESIA 🔹
+media_online_indonesia = {
+    "Media Berita Umum": [
+        "https://www.detik.com/",
+        "https://www.kompas.com/",
+        "https://www.tribunnews.com/",
+        "https://www.tempo.co/",
+        "https://www.liputan6.com/",
+        "https://www.viva.co.id/",
+        "https://www.republika.co.id/",
+        "https://www.merdeka.com/",
+        "https://www.suara.com/",
+        "https://www.thejakartapost.com/",
+        "https://www.sindonews.com/",
+        "https://www.indopos.co.id/",
+        "https://www.kumparan.com/",
+        "https://news.detik.com/",
+        "https://www.bantennews.co.id/",
+        "https://www.medcom.id/",
+        "https://www.pikiran-rakyat.com/",
+        "https://www.suaramerdeka.com/",
+        "https://www.riau24.com/",
+        "https://www.pontianakpost.com/"
+    ],
+    "Media Olahraga": [
+        "https://www.bola.com/",
+        "https://sport.tempo.co/",
+        "https://www.indosport.com/",
+        "https://olahraga.kompas.com/",
+        "https://www.goal.com/id",
+        "https://www.liputan6.com/bola",
+        "https://www.viva.co.id/bola",
+        "https://www.bolanet.com/",
+        "https://www.skor.id/",
+        "https://sport.detik.com/",
+        "https://www.bolasport.com/",
+        "https://www.ligaolahraga.com/"
+    ],
+    "Media Bisnis dan Keuangan": [
+        "https://www.bisnis.com/",
+        "https://www.kontan.co.id/",
+        "https://finansial.bisnis.com/",
+        "https://investor.id/",
+        "https://money.id/",
+        "https://www.ekonomi.kompas.com/",
+        "https://market.tempo.co/",
+        "https://www.swa.co.id/",
+        "https://www.marketeers.com/",
+        "https://www.cermati.com/",
+        "https://www.global.co.id/"
+    ]
+}
+
+# 🔹 KATA KUNCI UNTUK FILTER BERITA 🔹
+KEYWORDS = ["politik", "kriminal", "korupsi", "pemilu", "bencana", "ekonomi", "bisnis"]
+
+# 🔹 Fungsi koneksi ke MySQL 🔹
+def connect_mysql():
+    return pymysql.connect(
+        host=MYSQL_CONFIG["host"],
+        user=MYSQL_CONFIG["user"],
+        password=MYSQL_CONFIG["password"],
+        database=MYSQL_CONFIG["database"],
+        cursorclass=pymysql.cursors.DictCursor
+    )
+
+# 🔹 Fungsi koneksi ke MongoDB 🔹
+def connect_mongodb():
+    client = pymongo.MongoClient(MONGO_CONFIG["host"], MONGO_CONFIG["port"])
+    return client[MONGO_CONFIG["database"]][MONGO_CONFIG["collection"]]
+
+# 🔹 Fungsi scraping berita 🔹
+def scrape_news(media_category, site_url):
+    response = requests.get(site_url, headers={"User-Agent": "Mozilla/5.0"})
+    soup = BeautifulSoup(response.text, "html.parser")
+
+    articles = []
+    for berita in soup.find_all(["article", "h2", "h3"]):
+        judul = berita.text.strip() if berita.text else "Tidak ada judul"
+        link = berita.find("a")["href"] if berita.find("a") else "Tidak ada link"
+
+        # Hanya simpan berita yang mengandung kata kunci
+        if any(keyword.lower() in judul.lower() for keyword in KEYWORDS):
+            articles.append({"judul": judul, "link": link, "kategori": media_category})
+    
+    return articles
+
+# 🔹 Fungsi menyimpan data ke database 🔹
+def save_to_db(news_list):
+    if USE_MYSQL:
+        conn = connect_mysql()
+        cursor = conn.cursor()
+        query = "INSERT INTO berita (judul, link, kategori) VALUES (%s, %s, %s)"
+        for news in news_list:
+            cursor.execute(query, (news["judul"], news["link"], news["kategori"]))
+        conn.commit()
+        conn.close()
+    else:
+        collection = connect_mongodb()
+        collection.insert_many(news_list)
+
+# 🔹 Fungsi mengirim berita ke Telegram 🔹
+def send_to_telegram(news_list):
+    for news in news_list:
+        message = f"📰 *{news['judul']}*\n🔗 {news['link']}\n📡 {news['kategori']}"
+        bot.send_message(chat_id=TELEGRAM_CHAT_ID, text=message, parse_mode="Markdown")
+
+# 🔹 Fungsi utama scraping 🔹
+def scrape_all():
+    with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
+        futures = {}
+        for category, sites in media_online_indonesia.items():
+            for site in sites:
+                futures[executor.submit(scrape_news, category, site)] = site
+
+        all_results = []
+        for future in concurrent.futures.as_completed(futures):
+            site_name = futures[future]
+            try:
+                news_list = future.result()
+                if news_list:
+                    all_results.extend(news_list)
+                    print(f"✅ Berhasil scraping dari {site_name}")
+            except Exception as e:
+                print(f"❌ Gagal scraping dari {site_name}: {e}")
+
+    return all_results
+
+# 🔹 Loop scraping otomatis setiap 30 menit 🔹
+while True:
+    print("\n🔍 Memulai scraping berita...")
+    all_news = scrape_all()
+
+    if all_news:
+        print(f"📝 Menyimpan {len(all_news)} berita ke database...")
+        save_to_db(all_news)
+        print("✅ Data berita tersimpan.")
+
+        print("📢 Mengirim berita ke Telegram...")
+        send_to_telegram(all_news)
+        print("✅ Berita terkirim ke Telegram.")
+
+    else:
+        print("⚠ Tidak ada berita yang cocok dengan kata kunci.")
+
+    print("🕒 Menunggu 30 menit sebelum scraping berikutnya...\n")
+    time.sleep(1800)  # Tunggu 30 menit sebelum scraping lagi
