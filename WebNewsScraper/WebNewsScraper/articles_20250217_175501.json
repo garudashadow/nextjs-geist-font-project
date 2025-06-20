@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "timestamp": "2025-02-17T17:55:01.572337",
+    "total_articles": 1,
+    "categories": {
+      "Media Berita Umum": {
+        "count": 1,
+        "sources": [
+          "https://www.riau24.com/"
+        ]
+      }
+    }
+  },
+  "articles": {
+    "Media Berita Umum": [
+      {
+        "title": "Prabowo Minta Pejabat yang Berniat Tobat dari Korupsi Menemuinya di Malam Hari",
+        "url": "https://www.riau24.com/berita/baca/1739615326-prabowo-minta-pejabat-yang-berniat-tobat-dari-korupsi-menemuinya-di-malam-hari",
+        "source": "https://www.riau24.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "15 feb 2025  17 26",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T17:52:10.901779"
+      }
+    ]
+  }
+}
