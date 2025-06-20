@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "timestamp": "2025-02-17T16:46:24.632744",
+    "total_articles": 1,
+    "categories": {
+      "Media Berita Umum": {
+        "count": 1,
+        "sources": [
+          "https://www.kompas.com/"
+        ]
+      }
+    }
+  },
+  "articles": {
+    "Media Berita Umum": [
+      {
+        "title": "Diperiksa Polri  Eks Ketua DPRD Jakarta Mengaku Tak Tahu soal Korupsi Lahan Rusun Cengkareng",
+        "url": "https://www.kgnow.com/watch/1826242/diperiksa-polri-eks-ketua-dprd-jakarta-mengaku-tak-tahu-soal-korupsi-lahan-rusun-cengkareng?source=KOMPASCOM&position=wp_terkini__player_2",
+        "source": "https://www.kompas.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-02-17T16:43:13.831088"
+      }
+    ]
+  }
+}
