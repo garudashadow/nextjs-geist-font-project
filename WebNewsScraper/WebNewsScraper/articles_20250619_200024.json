@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "timestamp": "2025-06-19T20:00:24.403781",
+    "total_articles": 2,
+    "categories": {
+      "Media Berita Umum": {
+        "count": 1,
+        "sources": [
+          "https://www.kompas.com/"
+        ]
+      },
+      "Media Olahraga": {
+        "count": 1,
+        "sources": [
+          "https://www.bola.com/"
+        ]
+      }
+    }
+  },
+  "articles": {
+    "Media Berita Umum": [
+      {
+        "title": "Didukung Komisi V DPR  Gubri Abdul Wahid Inisiasi Pengembangan Kawasan Bisnis di Stadion Utama Riau",
+        "url": "https://regional.kompas.com/read/2025/06/19/210042978/didukung-komisi-v-dpr-gubri-abdul-wahid-inisiasi-pengembangan-kawasan",
+        "source": "https://www.kompas.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T19:57:11.428698"
+      }
+    ],
+    "Media Olahraga": [
+      {
+        "title": "Bikin Guncang Dunia Olahraga  Ini Gurita Bisnis Pemilik Baru LA Lakers  dari Chelsea sampai F1  Pengelola Aset 2 Kali APBN Indonesia 2025",
+        "url": "https://www.bola.com/ragam/read/6056348/bikin-guncang-dunia-olahraga-ini-gurita-bisnis-pemilik-baru-la-lakers-dari-chelsea-sampai-f1-pengelola-aset-2-kali-apbn-indonesia-2025",
+        "source": "https://www.bola.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Ragam",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T19:58:35.860090"
+      }
+    ]
+  }
+}
