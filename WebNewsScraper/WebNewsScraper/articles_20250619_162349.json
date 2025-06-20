@@ -1,0 +1,469 @@
+{
+  "metadata": {
+    "timestamp": "2025-06-19T16:23:49.813055",
+    "total_articles": 33,
+    "categories": {
+      "Media Berita Umum": {
+        "count": 16,
+        "sources": [
+          "https://www.liputan6.com/",
+          "https://www.riau24.com/",
+          "https://www.sindonews.com/",
+          "https://www.liputan6.com/bola"
+        ]
+      },
+      "Media Olahraga": {
+        "count": 4,
+        "sources": [
+          "https://www.bola.com/",
+          "https://www.indosport.com/"
+        ]
+      },
+      "Media Bisnis dan Keuangan": {
+        "count": 13,
+        "sources": [
+          "https://www.bisnis.com/",
+          "https://money.id/",
+          "https://finansial.bisnis.com/"
+        ]
+      }
+    }
+  },
+  "articles": {
+    "Media Berita Umum": [
+      {
+        "title": "HEADLINE HARI INIHeboh Penampakan Uang Triliunan Kasus Korupsi CPO  Terbesar dalam Sejarah Kejagung",
+        "url": "https://www.liputan6.com/share/news/text/heboh-penampakan-uang-triliunan-kasus-korupsi-cpo-terbesar-dalam-sejarah-kejagung",
+        "source": "https://www.liputan6.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "berita pilihan19 jun 2025 22 42",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T16:19:40.102783"
+      },
+      {
+        "title": "berita pilihan19 Jun 2025 22 46Mantan Sekretaris DPRD Riau Bantah Terlibat Korupsi SPPD",
+        "url": "https://www.liputan6.com/regional/read/6057057/mantan-sekretaris-dprd-riau-bantah-terlibat-korupsi-sppd",
+        "source": "https://www.liputan6.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "berita pilihan19 jun 2025 22 46",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T16:19:40.748423"
+      },
+      {
+        "title": "Kumpulan Hoaks Seputar Bidang Pendidikan  Simak Daftarnya Biar Tak Terkecoh",
+        "url": "https://www.liputan6.com/cek-fakta/read/6056453/kumpulan-hoaks-seputar-bidang-pendidikan-simak-daftarnya-biar-tak-terkecoh",
+        "source": "https://www.liputan6.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T16:19:40.801489"
+      },
+      {
+        "title": "19 Jun 2025 23 12Cuaca Ekstrem  BMKG Ingatkan Warga Sulut Waspadai Bencana Hidrometeorologi",
+        "url": "https://www.liputan6.com/regional/read/6057063/cuaca-ekstrem-bmkg-ingatkan-warga-sulut-waspadai-bencana-hidrometeorologi",
+        "source": "https://www.liputan6.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "19 jun 2025 23 12",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T16:19:40.876136"
+      },
+      {
+        "title": "19 Jun 2025 22 01Hadiri Pembukaan PRJ 2025  Pramono Anung  Jakarta Fair Terus Tumbuhkan Ekonomi Nasional",
+        "url": "https://www.liputan6.com/news/read/6057121/hadiri-pembukaan-prj-2025-pramono-anung-jakarta-fair-terus-tumbuhkan-ekonomi-nasional",
+        "source": "https://www.liputan6.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "19 jun 2025 22 01",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T16:19:40.919802"
+      },
+      {
+        "title": "19 Jun 2025 22 00Geopolitik Memanas  Investor Lebih Pilih Investasi Emas atau Bitcoin",
+        "url": "https://www.liputan6.com/crypto/read/6057085/geopolitik-memanas-investor-lebih-pilih-investasi-emas-atau-bitcoin",
+        "source": "https://www.liputan6.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "19 jun 2025 22 00",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T16:19:40.924896"
+      },
+      {
+        "title": "19 Jun 2025 21 15Ekonomi Kian Menantang  Orang RI Masih Optimis atau Makin Pesimis",
+        "url": "https://www.liputan6.com/bisnis/read/6057078/ekonomi-kian-menantang-orang-ri-masih-optimis-atau-makin-pesimis",
+        "source": "https://www.liputan6.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "19 jun 2025 21 15",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T16:19:41.020547"
+      },
+      {
+        "title": "19 Jun 2025 20 40Strategi Pelaku Industri Kripto Hadapi Tantangan Sentimen Geopolitik",
+        "url": "https://www.liputan6.com/crypto/read/6057044/strategi-pelaku-industri-kripto-hadapi-tantangan-sentimen-geopolitik",
+        "source": "https://www.liputan6.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "19 jun 2025 20 40",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T16:19:41.101230"
+      },
+      {
+        "title": "19 Jun 2025 19 41Kripto jadi Aset Safe Haven di Tengah Tensi Geopolitik  Ini Kata Pengamat",
+        "url": "https://www.liputan6.com/crypto/read/6057006/kripto-jadi-aset-safe-haven-di-tengah-tensi-geopolitik-ini-kata-pengamat",
+        "source": "https://www.liputan6.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "19 jun 2025 19 41",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T16:19:41.238962"
+      },
+      {
+        "title": "Pernikahan Politik Sunda Galuh dan Penunjukan Paksa Raja oleh Sanjaya",
+        "url": "https://daerah.sindonews.com/read/1581969/29/pernikahan-politik-sunda-galuh-dan-penunjukan-paksa-raja-oleh-sanjaya-1750291590",
+        "source": "https://www.sindonews.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T16:19:41.771293"
+      },
+      {
+        "title": "'Baba Vanga'-nya Jepang Ramal Bencana Besar Terjadi 5 Juli 2025  Orang-orang Ketakutan",
+        "url": "https://international.sindonews.com/read/1576327/46/baba-vanga-nya-jepang-ramal-bencana-besar-terjadi-5-juli-2025-orang-orang-ketakutan-1749110782",
+        "source": "https://www.sindonews.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T16:19:41.796440"
+      },
+      {
+        "title": "Tiga Besar Calon Sekdaprov Riau Jalani Pemeriksaan Kesehatan",
+        "url": "https://www.riau24.com/berita/baca/1750255930-tiga-besar-calon-sekdaprov-riau-jalani-pemeriksaan-kesehatan",
+        "source": "https://www.riau24.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "18 jun 2025  21 10",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T16:19:42.274456"
+      },
+      {
+        "title": "53 SMP di Riau Dapat Pendampingan  RAPP Dorong Pendidikan Unggul Lewat School Improvement",
+        "url": "https://www.riau24.com/berita/baca/1750257179-53-smp-di-riau-dapat-pendampingan-rapp-dorong-pendidikan-unggul-lewat-school-improvement",
+        "source": "https://www.riau24.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "18 jun 2025  18 29",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T16:19:42.293083"
+      },
+      {
+        "title": "Komisi V DPR RI Tinjau Stadion Utama Riau  Gubri Abdul Wahid Usulkan Stadion Utama Riau Jadi Kawasan Industri dan Bisnis",
+        "url": "https://www.riau24.com/berita/baca/1750326708-komisi-v-dpr-ri-tinjau-stadion-utama-riau-gubri-abdul-wahid-usulkan-stadion-utama-riau-jadi-kawasan-industri-dan-bisnis",
+        "source": "https://www.riau24.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "19 jun 2025  16 52",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T16:19:42.330397"
+      },
+      {
+        "title": "Bekali-kali Diperiksa  Dirut Sritex Ngaku Tak Tahu Pinjaman Bank Dikorupsi",
+        "url": "https://www.riau24.com/berita/baca/1750321216-bekali-kali-diperiksa-dirut-sritex-ngaku-tak-tahu-pinjaman-bank-dikorupsi",
+        "source": "https://www.riau24.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "19 jun 2025  15 16",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T16:19:42.334949"
+      },
+      {
+        "title": "HEADLINE HARI INIHeboh Penampakan Uang Triliunan Kasus Korupsi CPO  Terbesar dalam Sejarah Kejagung",
+        "url": "https://www.liputan6.com/news/read/6055435/heboh-penampakan-uang-triliunan-kasus-korupsi-cpo-terbesar-dalam-sejarah-kejagung",
+        "source": "https://www.liputan6.com/bola",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T16:20:50.426484"
+      }
+    ],
+    "Media Olahraga": [
+      {
+        "title": "BOLA BISNIS",
+        "url": "https://www.bola.com/tag/bola-bisnis?HouseAds&campaign=Liverpool_Home_STS1",
+        "source": "https://www.bola.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T16:20:50.675559"
+      },
+      {
+        "title": "7 Event Olahraga yang Paling Banyak Ditonton di Seluruh Dunia  Mendulang Pundi-pundi Uang yang Luar Biasa",
+        "url": "https://www.bola.com/ragam/read/6056518/7-event-olahraga-yang-paling-banyak-ditonton-di-seluruh-dunia-mendulang-pundi-pundi-uang-yang-luar-biasa?HouseAds&campaign=Liverpool_Home__STS1",
+        "source": "https://www.bola.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T16:20:50.677359"
+      },
+      {
+        "title": "Bikin Guncang Dunia Olahraga  Ini Gurita Bisnis Pemilik Baru LA Lakers  dari Chelsea sampai F1  Pengelola Aset 2 Kali APBN Indonesia 2025",
+        "url": "https://www.bola.com/ragam/read/6056348/bikin-guncang-dunia-olahraga-ini-gurita-bisnis-pemilik-baru-la-lakers-dari-chelsea-sampai-f1-pengelola-aset-2-kali-apbn-indonesia-2025?HouseAds&campaign=Liverpool_Home__STS1",
+        "source": "https://www.bola.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T16:20:50.682372"
+      },
+      {
+        "title": "Olahraga Favorit Para Capres-Cawapres  Mulai Sepeda  Sepak Bola hingga Tinju",
+        "url": "https://www.indosport.com/multi-event/20231024/olahraga-favorit-para-capres-cawapres-mulai-sepeda-sepak-bola-hingga-tinju",
+        "source": "https://www.indosport.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T16:20:52.551881"
+      }
+    ],
+    "Media Bisnis dan Keuangan": [
+      {
+        "title": "Ekspansi Bisnis Energi Grup Salim via Gallant Venture di Sekitar Batam",
+        "url": "https://premium.bisnis.com/read/20250618/659/1886238/ekspansi-bisnis-energi-grup-salim-via-gallant-venture-di-sekitar-batam",
+        "source": "https://www.bisnis.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T16:22:27.465620"
+      },
+      {
+        "title": "Bisnis Nikel Harum Energy  HRUM  Milik Kiki Barki Makin Cuan",
+        "url": "https://premium.bisnis.com/read/20250618/656/1886142/bisnis-nikel-harum-energy-hrum-milik-kiki-barki-makin-cuan",
+        "source": "https://www.bisnis.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T16:22:27.468512"
+      },
+      {
+        "title": "KPK Mulai Selidiki Kasus Dugaan Korupsi Kuota dan Penyelenggaraan Haji",
+        "url": "https://kabar24.bisnis.com/read/20250619/16/1886470/kpk-mulai-selidiki-kasus-dugaan-korupsi-kuota-dan-penyelenggaraan-haji",
+        "source": "https://www.bisnis.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "7 jam yang lalu",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T16:22:27.499332"
+      },
+      {
+        "title": "Bisnis Jakarta",
+        "url": "https://jakarta.bisnis.com/bisnis-jakarta ",
+        "source": "https://www.bisnis.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "51 menit yang lalu",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T16:22:27.520052"
+      },
+      {
+        "title": "Bisnis Jatim",
+        "url": "https://surabaya.bisnis.com/bisnis ",
+        "source": "https://www.bisnis.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "1 jam yang lalu",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T16:22:27.537564"
+      },
+      {
+        "title": "Sinergi BI untuk Stabilitas   Transformasi Ekonomi",
+        "url": "https://interaktif.bisnis.com/sinergi-bi-untuk-stabilitas-transformasi-ekonomi",
+        "source": "https://www.bisnis.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T16:22:27.540810"
+      },
+      {
+        "title": "Survei  Konsumen Akui Ekonomi Menantang tapi Tetap Optimistis",
+        "url": "https://ekonomi.bisnis.com/read/20250619/9/1886585/survei-konsumen-akui-ekonomi-menantang-tapi-tetap-optimistis",
+        "source": "https://www.bisnis.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "1 jam yang lalu",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T16:22:27.563600"
+      },
+      {
+        "title": "Ekonomi",
+        "url": "https://ekonomi.bisnis.com/ekonomi ",
+        "source": "https://www.bisnis.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "1 jam yang lalu",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T16:22:27.602980"
+      },
+      {
+        "title": "Bisnis com",
+        "url": "https://www.bisnis.com",
+        "source": "https://www.bisnis.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T16:22:27.652474"
+      },
+      {
+        "title": "Bisnis Syariah",
+        "url": "https://finansial.bisnis.com/read/20250619/231/1886284/bank-syariah-indonesia-bris-bidik-potensi-halal-lifestyle-di-indonesia",
+        "source": "https://finansial.bisnis.com/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "13 jam yang lalu",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T16:22:27.862926"
+      },
+      {
+        "title": "BISNIS",
+        "url": "https://money.id/tag/b/bisnis/",
+        "source": "https://money.id/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "BISNIS",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T16:23:49.775230"
+      },
+      {
+        "title": "BISNIS SYARIAH",
+        "url": "https://money.id/tag/b/bisnis-syariah/",
+        "source": "https://money.id/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "",
+          "category": "BISNIS SYARIAH",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T16:23:49.783361"
+      },
+      {
+        "title": "Cerita Wirda Mansur Bangun Bisnis 'Tanpa Modal'",
+        "url": "https://money.id/v-money/cerita-wirda-mansur-bangun-bisnis-tanpa-modal-200630q.html",
+        "source": "https://money.id/",
+        "metadata": {
+          "author": "Tidak disebutkan",
+          "published_date": "32-06-29",
+          "category": "Umum",
+          "description": "",
+          "location": ""
+        },
+        "timestamp": "2025-06-19T16:23:49.803537"
+      }
+    ]
+  }
+}
